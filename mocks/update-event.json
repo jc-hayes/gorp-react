@@ -1,0 +1,11 @@
+{
+    "body": "{\"trailName\":\"Glacier Peak\"}",
+    "pathParameters": {
+      "id": "d8f24cb0-667b-11ea-bad4-39ccc73ec049"
+    },
+    "requestContext": {
+      "identity": {
+        "cognitoIdentityId": "9e95c8f8-3b10-41ed-9e6f-42670578e48b"
+      }
+    }
+  }
